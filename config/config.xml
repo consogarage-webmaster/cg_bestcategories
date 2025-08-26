@@ -1,0 +1,20 @@
+<config>
+    <module>
+        <name>cg_bestcategories</name>
+        <displayName>Meilleures Catégories</displayName>
+        <description>Module pour afficher les catégories sélectionnées sur la page d'accueil.</description>
+        <version>1.0.0</version>
+        <author>Consogarage</author>
+        <tab>front_office_features</tab>
+        <need_instance>0</need_instance>
+        <ps_versions_compliancy>
+            <version>8.2</version>
+        </ps_versions_compliancy>
+        <dependencies>
+            <dependency>
+                <name>ps_category</name>
+                <version>1.0.0</version>
+            </dependency>
+        </dependencies>
+    </module>
+</config>
